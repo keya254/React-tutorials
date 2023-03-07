@@ -1,7 +1,7 @@
 const Header = () => {
     return (
         <header>
-            <h1>Handling Events - item List</h1>
+            <h1>Handling React-hooks </h1>
         </header>
     );
 };
